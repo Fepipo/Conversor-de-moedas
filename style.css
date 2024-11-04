@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+* {
+    font-family: "Lexend";
+}
+
+select {
+    font-family: "Lexend";
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    margin: 8px;
+}
+
+select {
+    margin: 8px;
+    width: 100px !important;
+}
+
+form {
+    background-color: #191b1e;
+    border-radius: 13px;
+    padding: 17px;
+    text-align: center;
+}
+
+.margin {
+    margin-top: 6px;
+    width: 250px;
+}
+
+.seta {
+    border-radius: 100%;
+    position: relative;
+    left: 135px;
+}
